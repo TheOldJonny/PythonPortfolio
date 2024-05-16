@@ -84,13 +84,3 @@ class Vector():
                 myStr += " "
         myStr+="]"
         return myStr
-
-# v = Vector([3, 4])
-# v2 = Vector([4, 5])
-
-# # print(v._array)
-# # print(v.sum())
-# # print(v[1])
-
-# # vs = v + v2
-# print(v)
